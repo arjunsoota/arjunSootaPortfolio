@@ -1,0 +1,99 @@
+{
+    "landing": {
+        "firstName": "Arjun",
+        "lastName": "Soota",
+        "phoneNumber": "+91-9650676250",
+        "bio": "I am a Computer Science undergrad with a strong hold on data structures and algorithms in C/C++ and Java. Currently I am interning at Amazon India with the Alexa AI - Secure AI foundations team. I have also worked with Python and Javascript. Python for server side and scripting and Javascript for the frontend. I use Django framework for the server side development and React for the frontend development. Always on lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful, innovative and dynamic in my work that will lead to a learning experience.",
+        "email": "arjsoota@amazon.com",
+        "linkedin": "https://www.linkedin.com/in/arjun-soota/",
+        "github": "https://github.com/arjunsoota"
+    },
+    "experience": [
+        {
+            "position": "Software Development Engineer Intern",
+            "organization": "Amazon",
+            "aboutWork": "Working with the Alexa team building awesome software for Amazon's internal customers. I primarily work on the backend services writing code in Java. We utilize Amazon Web Services and develop on top of that to provide customers with delightful experiences. My internship project was to automate a manual step that was causing a bottleneck in the pipeline. I saved 12 hrs/week of manual effort.",
+            "fromDate": "Feb 2020",
+            "toDate": "Present"
+        },
+        {
+            "position": "Software Engineering Intern",
+            "organization": "Central Pension Accounting Office, NIC Govt. of India",
+            "aboutWork": "Worked on e-Scroll Auto-Audit which is a auditing software built on top of Django framework with Python and PHP. Designed the user authentication feature to work in sync with the existing MS-SQL database. Used MD5 hashing technique. Designed Django model for existing tables in the database. Worked on redesigning the existing components of the app. Deployed the app to production.",
+            "fromDate": "June 2019",
+            "toDate": "July 2019"
+        },
+        {
+            "position": "Deputy Director Operations",
+            "organization": "JIIT Youth Club",
+            "aboutWork": "Lead the central of my college in planning and executing the events/fest of the college. Looked after the logisitcs requirement for the fest of our college. Worked in a team environment and guided my team of juniors.",
+            "fromDate": "Feb 2018",
+            "toDate": "Feb 2019"
+        }
+        
+    ],
+    "education": [
+        {
+            "university": "Jaypee Institute of Information Technology",
+            "degree": "Bachelor of Technology in Computer Science",
+            "gpa": "C.G.P.A : 7.5",
+            "fromDate": "2016",
+            "toDate": "- 2020",
+            "location" : "Noida, India"
+        },
+        {
+            "university": "Kulachi Hansraj Model School",
+            "degree": "12th Standard | CBSE ",
+            "gpa": "95.6%",
+            "fromDate": "2016",
+            "toDate": "",
+            "location" : "Delhi, India"
+        },
+        {
+            "university": "Kulachi Hansraj Model School",
+            "degree": "10th Standard | CBSE ",
+            "gpa": "C.G.P.A : 9.6",
+            "fromDate": "2014",
+            "toDate": "",
+            "location" : "Delhi, India"
+        }  
+    ],
+
+    "skills": [
+        
+    ],
+
+    "interests": {
+        "paragraphOne": "Apart from being a software developer, I enjoy most of my time being outdoors. I am passionate about photography and film making and aspire to start a YouTube channel of my own one day.",
+        "paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the consumer tech field like new products and apps.."
+    },
+
+    "awards": [
+        {
+            "awardDetail": "SQL and Relational Databases by IBM (04/2019)"
+        },
+        {
+            "awardDetail": "Certificate of Achievement in C++ DS Algo by Coding Blocks [Pitampura , Delhi] "
+        },
+        {
+            "awardDetail": "NPTEL online certification in Introduction to Modern Aplication Development (Elite)"
+        },
+        {
+            "awardDetail": "Reached to top 120 teams across India in Deloitte TechnoUtsav 2.0(Round 2 Phase 3)"
+        },
+        {
+            "awardDetail": "2 time silver medalist in iIO cyber olympiad conducted by Silver Zone"
+        },
+        {
+            "awardDetail": "Won the price of best Technocrat of the school for the year 2015-16 by former chairman of ISRO Mr. G. Madhavan Nair"
+        },
+        {
+            "awardDetail": "Ranked 8th in classroom program of C++ at Coding BLocks"
+        },
+        {
+            "awardDetail": "Secured 98% marks in class XII C++ board exam"
+        }
+           
+    ]
+
+}
